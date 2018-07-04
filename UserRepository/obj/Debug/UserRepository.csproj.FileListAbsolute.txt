@@ -1,0 +1,11 @@
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\bin\Debug\UserRepository.exe.config
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\bin\Debug\UserRepository.exe
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\bin\Debug\UserRepository.pdb
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.Properties.Resources.resources
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.UsersForm.resources
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.exe
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.pdb
+\\Mac\iCloud\Step\ADO.NET\DZ\UserRepository\UserRepository\obj\Debug\UserRepository.UsersFields.resources
